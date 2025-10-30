@@ -23,7 +23,7 @@
 
     ## 🧠 Design Notes
 
-    This project was conceived with research-grade experimentation in mind and tailored specifically for "ALIVE-Thoughtharvester" in the "thought_harvester" domain, implemented in Python.
+    This project was conceived with human-in-the-loop design in mind and tailored specifically for "ALIVE-Thoughtharvester" in the "ai_consciousness" domain, implemented in Python.
 
     ## 📐 Architecture Sketch
 
@@ -40,36 +40,36 @@
 
     ## 🔎 Fingerprint
 
-    Project Fingerprint: `119d43eb11b3` • Generated: 2025-10-30T06:06:10.862367
+    Project Fingerprint: `496b93189871` • Generated: 2025-10-30T06:10:22.392104
     
 
 ## Insights from Research
 
-- Video: Zaha Hadid advice for Young Architects
-- Video: How To Think Like An Architect: The Design Process
-- Video: How To Think Like An Architect: Improving Design
-- Video: Best Practices for Modern DevOps, Architectures and Operations
-- Repo idea: Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack
-- Repo idea: :scream: A curated list of amazingly awesome OSINT
-- Repo idea: Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managin
-- Repo idea: APT & CyberCriminal Campaign Collection
-- Repo idea: A curated list of resources dedicated to open source GitHub repositories related to ChatGPT and Open
+- Video: Is AI🤖 Truly Conscious? - Elon Musk
+- Video: Architecture Site Analysis Diagrams in SECONDS with AI 😱 | Aino World #architecture
+- Video: AI is helping architects visualize ideas in realtime
+- Video: Top 10 Ways to Present Architecture Projects With AI
+- Repo idea: This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
+- Repo idea: :books: List of awesome university courses for learning Computer Science!
+- Repo idea:  :books: Find your next book to read!
+- Repo idea: ChatGPT DAN, Jailbreaks prompt
+- Repo idea: SuperPrompt is an attempt to engineer prompts that might help us understand AI agents.
 
 
 ## Inspiration Sources
 
-- https://www.youtube.com/watch?v=ILb5YiV5YuA
-- https://www.youtube.com/watch?v=ILb5YiV5YuA
-- https://www.youtube.com/watch?v=ILb5YiV5YuA
-- https://www.youtube.com/watch?v=ILb5YiV5YuA
+- https://www.youtube.com/watch?v=gdlTspKdsjU
+- https://www.youtube.com/watch?v=gdlTspKdsjU
+- https://www.youtube.com/watch?v=gdlTspKdsjU
+- https://www.youtube.com/watch?v=gdlTspKdsjU
 
 
 ## Related Repositories
 
-- bregman-arie/devops-exercises ⭐ 79612 — https://github.com/bregman-arie/devops-exercises
-- jivoi/awesome-osint ⭐ 23349 — https://github.com/jivoi/awesome-osint
-- mikeroyal/Self-Hosting-Guide ⭐ 17470 — https://github.com/mikeroyal/Self-Hosting-Guide
-- CyberMonitor/APT_CyberCriminal_Campagin_Collections ⭐ 3995 — https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections
-- taishi-i/awesome-ChatGPT-repositories ⭐ 2709 — https://github.com/taishi-i/awesome-ChatGPT-repositories
+- f/awesome-chatgpt-prompts ⭐ 135922 — https://github.com/f/awesome-chatgpt-prompts
+- prakhar1989/awesome-courses ⭐ 64046 — https://github.com/prakhar1989/awesome-courses
+- hackerkid/Mind-Expanding-Books ⭐ 12934 — https://github.com/hackerkid/Mind-Expanding-Books
+- 0xk1h0/ChatGPT_DAN ⭐ 10103 — https://github.com/0xk1h0/ChatGPT_DAN
+- NeoVertex1/SuperPrompt ⭐ 6283 — https://github.com/NeoVertex1/SuperPrompt
 
     
